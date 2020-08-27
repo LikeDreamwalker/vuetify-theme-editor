@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.29492eff8849dac6c9654d74f3d9bf41.js"
+  "precache-manifest.8f7f9fdfcf9fea12107c3e68d24f83a5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuetify-theme-editor"});
