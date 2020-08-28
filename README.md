@@ -29,4 +29,4 @@ Vuetify has many UI components, it will be a hard job for me to set all of them 
 
 ## You can use it in this way:
 
-<img src="https://github.com/LikeDreamwalker/vuetify-theme-editor/blob/master/images/GIF%202020-8-28%2017-20-54.gif" width="25%"><img src="https://github.com/LikeDreamwalker/vuetify-theme-editor/blob/master/images/GIF%202020-8-28%2017-26-24.gif" width="25%">
+<img src="https://github.com/LikeDreamwalker/vuetify-theme-editor/blob/master/images/GIF%202020-8-28%2017-20-54.gif" width="25%"><img src="https://github.com/LikeDreamwalker/vuetify-theme-editor/blob/master/images/GIF%202020-8-28%2017-26-24.gif" width="50%">
