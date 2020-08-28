@@ -3,6 +3,7 @@
 ### A simple app to edit your vuetify theme!
 
 Github：https://github.com/LikeDreamwalker/vuetify-theme-editor
+
 Demo：https://vte.ldwid.com
 
 *考虑到vuetify在国内使用的人并不是特别多，我就不再给这个app以及readme提供中文版了，太麻烦了。*
