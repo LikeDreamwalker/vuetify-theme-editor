@@ -30,4 +30,5 @@ Vuetify has many UI components, it will be a hard job for me to set all of them 
 
 ## You can use it in this way:
 
-<img src="C:\Users\Dream\Desktop\GIF 2020-8-28 17-20-54.gif" alt="GIF 2020-8-28 17-20-54" style="zoom: 67%;" />![GIF 2020-8-28 17-26-24](C:\Users\Dream\Desktop\GIF 2020-8-28 17-26-24.gif)
+<img src="https://ldwid-1258491808.file.myqcloud.com/vte/GIF%202020-8-28%2017-20-54.gif" width="50%">
+<img src="https://ldwid-1258491808.file.myqcloud.com/vte/GIF%202020-8-28%2017-26-24.gif" width="50%">
