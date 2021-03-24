@@ -6,6 +6,8 @@ Github：https://github.com/LikeDreamwalker/vuetify-theme-editor
 
 Demo：https://vte.ldwid.com
 
+Already updated to : https://github.com/LikeDreamwalker/mirrorlake-theme-editor | lte.ldwid.com
+
 *考虑到vuetify在国内使用的人并不是特别多，我就不再给这个app以及readme提供中文版了，太麻烦了。*
 
 *如果你完全无法阅读英文，找到Demo链接，逻辑类似填充功能，当你在触发一个按钮的时候会自动把色板的颜色部署到对应的主题色。*
